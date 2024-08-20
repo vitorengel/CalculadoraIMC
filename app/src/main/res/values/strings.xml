@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroProjeto</string>
+    <string name="message">Olá Vitor</string>
+    <string name="message.classificacao">Classificação: %1$s.</string>
+</resources>
